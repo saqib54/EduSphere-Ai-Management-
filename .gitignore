@@ -1,0 +1,49 @@
+# Dependencies
+node_modules/
+
+# Build output
+dist/
+
+# SQLite database files (runtime data)
+server/edusphere.sqlite
+server/edusphere.sqlite-shm
+server/edusphere.sqlite-wal
+
+# Uploaded files
+server/uploads/
+
+# Environment variables
+.env
+.env.local
+.env.production
+
+# Keep .env.development as a template (no secrets)
+# .env.development
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor directories
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Gemini / Agent internal files
+.gemini/
+.agents/
+.agent/
+.gsd/
+
+# Prototype directory
+prototype/
+
+# Temporary files
+*.tmp
+*.temp

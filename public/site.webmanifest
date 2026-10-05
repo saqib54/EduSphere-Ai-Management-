@@ -1,0 +1,17 @@
+{
+  "name": "EduSphere School & College Management System",
+  "short_name": "EduSphere",
+  "description": "Next-generation School & College Management System in Pakistan",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f4f5fc",
+  "theme_color": "#4f6ef7"
+}
